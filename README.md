@@ -11,6 +11,6 @@ Goal in mind - check the accurancy and speed of both methods.
 Recommend movies based on user tags.
 
 ## Grouping Societies
-[Grouping Societies](https://github.com/grzedzicki/Mining-of-Massive-Datasets/blob/main/GroupingSocieties.ipynb)
- ### Based on dataset find users (10) using trawling
- ### Calculate Pearson correlation coefficient and connect two points in graph if threshold is lower than user set
+[Grouping Societies](https://github.com/grzedzicki/Mining-of-Massive-Datasets/blob/main/GroupingSocieties.ipynb)\
+Based on dataset find users (10) using trawling
+Calculate Pearson correlation coefficient and connect two points in graph if threshold is lower than user set
