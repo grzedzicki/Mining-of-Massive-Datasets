@@ -1,2 +1,2 @@
 # Mining-of-Massive-Datasets
-Repo for different projects for mining data. Python/Pandas/Numpy
+Repo for different projects for data mining. Python/Pandas/Numpy
